@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VC_Startups_LinearRegression
 
 This project performs multiple linear regression on a dataset of startup investments to predict profit.
@@ -15,6 +14,7 @@ This project performs multiple linear regression on a dataset of startup investm
 
 ### Box Plot: Profit by State
 ![Box Plot](IMAGES/boxplot_state.png) 
+
 =======
 # VC_Startups_LinearRegression
 
