@@ -3,8 +3,7 @@
 A simple NLP web app using HuggingFace Transformers + Streamlit.
 
 ## Demo
-Type a review/tweet → Get sentiment: [**Positive / Negative**.](https://mysentimentanalysis.streamlit.app/)
-
+Type a review/tweet → Get sentiment [https://mysentimentanalysis.streamlit.app/]
 ## Tech Stack
 - Python
 - HuggingFace Transformers (DistilBERT model)
